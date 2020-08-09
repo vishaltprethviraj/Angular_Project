@@ -1,4 +1,4 @@
-# Angular_Project
+# Angular Project
 
 #### Angular project done for learning purpose
 
