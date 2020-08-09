@@ -1,6 +1,6 @@
 # Angular_Project
 
-## Angular project done for learning purpose
+#### Angular project done for learning purpose
 
 -Your name
 
